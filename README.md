@@ -1,1 +1,1 @@
-[Бот](https://github.com/GyverLibs/GyverDimmer)
+[Бот](https://github.com/Mihail589/fictional-telegram)
